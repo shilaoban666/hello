@@ -12,4 +12,4 @@ hello world git!
 hello world git!
 hello world git!
 hello world git!
-hello world git!
+hello world git! hot-fix test
